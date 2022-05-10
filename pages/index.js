@@ -1,5 +1,5 @@
 export default function HomePage() {
     return (
-        <div>Hello world!</div>
+        <div>Welcome to industrial-assets-manager</div>
     )
 }
